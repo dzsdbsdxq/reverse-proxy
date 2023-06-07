@@ -1,0 +1,33 @@
+2023-06-07 10:58:38	INFO	common/logger.go:98	proxy/common.InitLogger	初始化zap日志完成!
+2023-06-07 10:58:38	INFO	routes/routes.go:31	proxy/routes.InitRoutes	初始化路由完成！
+2023-06-07 10:58:38	INFO	proxy/main.go:40	main.main	Server is running at localhost:18888
+2023-06-07 11:06:07	INFO	proxy/main.go:50	main.main	Shutting down server...
+2023-06-07 11:06:07	INFO	proxy/main.go:60	main.main	Server exiting!
+2023-06-07 11:06:10	INFO	common/logger.go:98	proxy/common.InitLogger	初始化zap日志完成!
+2023-06-07 11:06:10	INFO	routes/routes.go:31	proxy/routes.InitRoutes	初始化路由完成！
+2023-06-07 11:06:10	INFO	proxy/main.go:40	main.main	Server is running at localhost:18888
+2023-06-07 11:08:50	INFO	proxy/main.go:50	main.main	Shutting down server...
+2023-06-07 11:08:50	INFO	proxy/main.go:60	main.main	Server exiting!
+2023-06-07 11:08:53	INFO	common/logger.go:98	proxy/common.InitLogger	初始化zap日志完成!
+2023-06-07 11:08:53	INFO	routes/routes.go:32	proxy/routes.InitRoutes	初始化路由完成！
+2023-06-07 11:08:53	INFO	proxy/main.go:40	main.main	Server is running at localhost:18888
+2023-06-07 12:05:11	INFO	proxy/main.go:50	main.main	Shutting down server...
+2023-06-07 12:05:11	INFO	proxy/main.go:60	main.main	Server exiting!
+2023-06-07 12:05:14	INFO	common/logger.go:98	proxy/common.InitLogger	初始化zap日志完成!
+2023-06-07 12:05:14	INFO	routes/routes.go:31	proxy/routes.InitRoutes	初始化路由完成！
+2023-06-07 12:05:14	INFO	proxy/main.go:40	main.main	Server is running at localhost:18888
+2023-06-07 12:07:40	INFO	proxy/main.go:50	main.main	Shutting down server...
+2023-06-07 12:07:40	INFO	proxy/main.go:60	main.main	Server exiting!
+2023-06-07 12:07:56	INFO	common/logger.go:98	proxy/common.InitLogger	初始化zap日志完成!
+2023-06-07 12:07:56	INFO	routes/routes.go:46	proxy/routes.InitRoutes	初始化路由完成！
+2023-06-07 12:07:56	INFO	proxy/main.go:40	main.main	Server is running at localhost:18888
+2023-06-07 12:08:31	INFO	proxy/main.go:50	main.main	Shutting down server...
+2023-06-07 12:08:31	INFO	proxy/main.go:60	main.main	Server exiting!
+2023-06-07 12:08:32	INFO	common/logger.go:98	proxy/common.InitLogger	初始化zap日志完成!
+2023-06-07 12:08:32	INFO	routes/routes.go:46	proxy/routes.InitRoutes	初始化路由完成！
+2023-06-07 12:08:32	INFO	proxy/main.go:40	main.main	Server is running at localhost:18888
+2023-06-07 12:10:35	INFO	proxy/main.go:50	main.main	Shutting down server...
+2023-06-07 12:10:35	INFO	proxy/main.go:60	main.main	Server exiting!
+2023-06-07 12:10:41	INFO	common/logger.go:98	proxy/common.InitLogger	初始化zap日志完成!
+2023-06-07 12:10:41	INFO	routes/routes.go:39	proxy/routes.InitRoutes	初始化路由完成！
+2023-06-07 12:10:41	INFO	proxy/main.go:40	main.main	Server is running at localhost:18888
